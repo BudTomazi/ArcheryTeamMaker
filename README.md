@@ -8,5 +8,5 @@ This is a tool for making balanced teams of 3 when the scores of the different p
 
 It should be noted that if the number of participants is not divisible by 3, it will compensate by making some teams of two, basing performance on the average score of the participants.  
 
-There is also a normal python file which can be run locally if access to internet is not available.  
+There is also a normal python file which can be run locally if access to internet is not available.  This one just requires a CSV file with the same name as the one in this repository to be in the same directory as the python file when run.  
 
